@@ -8,9 +8,10 @@ This project transforms raw business data into an interactive analytical report 
 
 ## 📊 Dashboard Overview
 
-The report contains **6 interactive analytical pages**:
+The report contains **6 analytical pages**:
 
 ### 🏠 1. Overview
+
 Provides an executive-level summary of overall business performance, including:
 
 - Total Sales
@@ -24,6 +25,7 @@ Provides an executive-level summary of overall business performance, including:
 - Monthly performance
 
 ### 🍫 2. Products Analysis
+
 Analyzes product-level performance, including:
 
 - Product sales
@@ -34,6 +36,7 @@ Analyzes product-level performance, including:
 - Sales distribution
 
 ### 👥 3. Sales Team Analysis
+
 Analyzes salesperson performance through:
 
 - Sales by salesperson
@@ -43,6 +46,7 @@ Analyzes salesperson performance through:
 - Performance trends
 
 ### 🌍 4. Geography Analysis
+
 Provides geographical analysis of the business through:
 
 - Sales by geography
@@ -52,6 +56,7 @@ Provides geographical analysis of the business through:
 - Interactive map visualization
 
 ### 👤 5. Customers Analysis
+
 Analyzes customer and order performance through:
 
 - Total customers
@@ -64,6 +69,7 @@ Analyzes customer and order performance through:
 - Customer-level details
 
 ### 🔎 6. Detailed Analysis
+
 Provides transaction-level analysis through:
 
 - Order ID
@@ -86,37 +92,37 @@ Provides transaction-level analysis through:
 
 ## 🏠 Overview
 
-![Overview Dashboard](screenshots/Overview.png)
+[![Overview Dashboard](screenshots/Overview.jpg)](screenshots/Overview.jpg)
 
 ---
 
 ## 🍫 Products Analysis
 
-![Products Analysis](screenshots/Products.png)
+[![Products Analysis](screenshots/Products.jpg)](screenshots/Products.jpg)
 
 ---
 
 ## 👥 Sales Team Analysis
 
-![Sales Team Analysis](screenshots/Sales-Team.png)
+[![Sales Team Analysis](screenshots/Sales-Team.jpg)](screenshots/Sales-Team.jpg)
 
 ---
 
 ## 🌍 Geography Analysis
 
-![Geography Analysis](screenshots/Geography.png)
+[![Geography Analysis](screenshots/Geography.jpg)](screenshots/Geography.jpg)
 
 ---
 
 ## 👤 Customers Analysis
 
-![Customers Analysis](screenshots/Customers.png)
+[![Customers Analysis](screenshots/Customers.jpg)](screenshots/Customers.jpg)
 
 ---
 
 ## 🔎 Detailed Analysis
 
-![Detailed Analysis](screenshots/Details.png)
+[![Detailed Analysis](screenshots/Details.jpg)](screenshots/Details.jpg)
 
 ---
 
@@ -195,7 +201,7 @@ The Customers page provides insights into customer activity, orders, shipment be
 
 ## Transaction-Level Analysis
 
-The Details page allows users to drill into individual transactions while comparing monthly sales and profit performance.
+The Details page allows users to explore individual transactions while comparing monthly sales and profit performance.
 
 ---
 
@@ -219,53 +225,62 @@ The report includes:
 
 ---
 
+# 🎯 Project Objective
+
+The objective of this project was to transform business sales and shipment data into an interactive Power BI dashboard that enables users to understand:
+
+**Sales → Products → Sales Team → Geography → Customers → Profitability**
+
+The project focuses on turning raw data into meaningful business insights through data modeling, DAX calculations, interactive visualizations, and dashboard design.
+
+---
+
+# 💡 Key Takeaways
+
+The dashboard provides a centralized view of business performance and allows users to move from high-level KPIs to detailed transaction-level information.
+
+Users can explore:
+
+- Where sales are generated
+- Which products contribute to sales
+- How salespeople perform
+- How regions perform
+- How customers interact with the business
+- How sales and profit change over time
+- Individual transaction details
+
+---
+
+# 🚀 Project Highlights
+
+- 6-page Power BI analytical report
+- Interactive business dashboard
+- Custom dashboard design
+- KPI-driven analysis
+- Product-level analysis
+- Salesperson analysis
+- Geographic analysis
+- Customer analysis
+- Transaction-level analysis
+- Sales and profitability analysis
+- Monthly trend analysis
+- Conditional formatting
+- Interactive visual storytelling
+
+---
+
 # 📂 Project Structure
 
 ```text
 Chocolate-Sales-Analysis-PowerBI/
 │
 ├── screenshots/
-│   ├── Overview.png
-│   ├── Products.png
-│   ├── Sales-Team.png
-│   ├── Geography.png
-│   ├── Customers.png
-│   ├── Details.png
+│   ├── Overview.jpg
+│   ├── Products.jpg
+│   ├── Sales-Team.jpg
+│   ├── Geography.jpg
+│   ├── Customers.jpg
+│   ├── Details.jpg
 │   └── README.md
 │
 └── README.md
-
-
-
----
-
-# 👨‍💻 Author
-
-## Kiran Kavala
-
-**B.Tech — Computer Science Engineering (AI & ML)**
-
-Passionate about building practical solutions using:
-
-- Data Analytics
-- Business Intelligence
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-
-### 🔗 Connect with me
-
-- **LinkedIn:** [Kiran Kavala](https://www.linkedin.com/in/kiran-kavala)
-- **GitHub:** [KiranKavala143](https://github.com/Kirankavala143)
-
----
-
-# ⭐ Project
-
-If you found this project interesting, feel free to explore the repository and dashboard screenshots.
-
----
-
-### 📌 Note
-
-This repository contains the project documentation and dashboard screenshots for portfolio and demonstration purposes.
