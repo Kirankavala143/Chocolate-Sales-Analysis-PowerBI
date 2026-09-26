@@ -234,3 +234,38 @@ Chocolate-Sales-Analysis-PowerBI/
 │   └── README.md
 │
 └── README.md
+
+
+
+---
+
+# 👨‍💻 Author
+
+## Kiran Kavala
+
+**B.Tech — Computer Science Engineering (AI & ML)**
+
+Passionate about building practical solutions using:
+
+- Data Analytics
+- Business Intelligence
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+
+### 🔗 Connect with me
+
+- **LinkedIn:** [Kiran Kavala](https://www.linkedin.com/in/kiran-kavala)
+- **GitHub:** [KiranKavala143](https://github.com/Kirankavala143)
+
+---
+
+# ⭐ Project
+
+If you found this project interesting, feel free to explore the repository and dashboard screenshots.
+
+---
+
+### 📌 Note
+
+This repository contains the project documentation and dashboard screenshots for portfolio and demonstration purposes.
