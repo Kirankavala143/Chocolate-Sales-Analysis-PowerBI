@@ -287,6 +287,18 @@ Chocolate-Sales-Analysis-PowerBI/
 
 ---
 
+# 📥 Power BI Project File
+
+The complete Power BI report is available below:
+
+👉 [Download View the Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
+
+> The PBIX file contains the complete interactive Power BI report, including all 6 analytical pages, data model, DAX measures, Power Query transformations, and visualizations.
+> Note: The `.pbix` file requires Power BI Desktop to open.
+
+
+---
+
 # 👨‍💻 Author
 
 ## Kiran Kavala
@@ -316,4 +328,4 @@ If you found this project interesting, feel free to explore the repository and d
 
 ### 📌 Note
 
-This repository contains the project documentation and dashboard screenshots for portfolio and demonstration purposes.
+This repository contains the project documentation, dashboard screenshots, and Power BI report file for portfolio and demonstration purposes.
