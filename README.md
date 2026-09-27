@@ -158,16 +158,21 @@ Provides transaction-level analysis through:
 
 ---
 
-# 📈 Key Metrics
+# 📈 Key Performance Indicators
 
-The dashboard provides analysis of:
+The dashboard provides an interactive view of the company's key business performance metrics.
 
-- Total Sales
-- Total Shipments
-- Total Boxes
-- Total Costs
-- Total Profit
-- Profit Margin
+| Metric | Value |
+|---|---:|
+| 💰 Total Sales | **$137.4M** |
+| 📦 Boxes Sold | **9M** |
+| 🚚 Total Shipments | **24K** |
+| 💵 Total Costs | **$58.51M** |
+| 📊 Total Profit | **$79M** |
+| 📈 Profit Margin | **57.4%** |
+
+Additional analysis includes:
+
 - Salesperson Performance
 - Product Performance
 - Regional Sales
@@ -176,7 +181,6 @@ The dashboard provides analysis of:
 - Shipment Trends
 - Monthly Sales Trends
 - Monthly Profit Trends
-
 ---
 
 # 🛠️ Tools & Technologies
