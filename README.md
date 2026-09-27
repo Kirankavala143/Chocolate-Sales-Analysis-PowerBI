@@ -287,14 +287,31 @@ Chocolate-Sales-Analysis-PowerBI/
 
 ---
 
-# 📥 Power BI Project File
+# 🚀 Project Access
 
-The complete Power BI report is available below:
+## 🌐 Interactive Power BI Dashboard
 
-👉 [Download View the Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
+👉 [Open Interactive Power BI Report](https://app.powerbi.com/reportEmbed?reportId=6159141b-68ca-4a8d-a481-3df4b5309fb9)
 
-> The PBIX file contains the complete interactive Power BI report, including all 6 analytical pages, data model, DAX measures, Power Query transformations, and visualizations.
-> Note: The `.pbix` file requires Power BI Desktop to open.
+> The interactive Power BI report may require Power BI access/sign-in.
+
+---
+
+## 📥 Download Power BI Project
+
+The complete Power BI `.pbix` file is available through the following links:
+
+### 📦 GitHub Release
+
+👉 [Download from GitHub Release](https://github.com/Kirankavala143/Chocolate-Sales-Analysis-PowerBI/releases/tag/v1.0.0)
+
+### ☁️ Google Drive
+
+👉 [Download Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
+
+> The `.pbix` file contains the complete interactive Power BI report, including all 6 analytical pages, data model, DAX measures, Power Query transformations, and visualizations.
+>
+> **Note:** The `.pbix` file requires Microsoft Power BI Desktop to open.
 
 
 ---
