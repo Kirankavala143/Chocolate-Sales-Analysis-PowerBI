@@ -33,9 +33,6 @@ The complete Power BI `.pbix` file is available through the following links:
 >
 > **Note:** The `.pbix` file requires Microsoft Power BI Desktop to open.
 
-
----
-
 ---
 
 ## 📊 Dashboard Overview
