@@ -4,6 +4,38 @@ An interactive **Power BI Business Intelligence dashboard** designed to analyze 
 
 This project transforms raw business data into an interactive analytical report that helps users explore business performance through KPIs, trends, comparisons, and detailed transaction-level analysis.
 
+
+---
+
+# 🚀 Project Access
+
+## 🌐 Interactive Power BI Dashboard
+
+👉 [Open Interactive Power BI Report](https://app.powerbi.com/reportEmbed?reportId=6159141b-68ca-4a8d-a481-3df4b5309fb9)
+
+> The interactive Power BI report may require Power BI access/sign-in.
+
+---
+
+## 📥 Download Power BI Project
+
+The complete Power BI `.pbix` file is available through the following links:
+
+### 📦 GitHub Release
+
+👉 [Download from GitHub Release](https://github.com/Kirankavala143/Chocolate-Sales-Analysis-PowerBI/releases/tag/v1.0.0)
+
+### ☁️ Google Drive
+
+👉 [Download Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
+
+> The `.pbix` file contains the complete interactive Power BI report, including all 6 analytical pages, data model, DAX measures, Power Query transformations, and visualizations.
+>
+> **Note:** The `.pbix` file requires Microsoft Power BI Desktop to open.
+
+
+---
+
 ---
 
 ## 📊 Dashboard Overview
@@ -284,37 +316,6 @@ Chocolate-Sales-Analysis-PowerBI/
 │
 └── README.md
 ```
-
----
-
-# 🚀 Project Access
-
-## 🌐 Interactive Power BI Dashboard
-
-👉 [Open Interactive Power BI Report](https://app.powerbi.com/reportEmbed?reportId=6159141b-68ca-4a8d-a481-3df4b5309fb9)
-
-> The interactive Power BI report may require Power BI access/sign-in.
-
----
-
-## 📥 Download Power BI Project
-
-The complete Power BI `.pbix` file is available through the following links:
-
-### 📦 GitHub Release
-
-👉 [Download from GitHub Release](https://github.com/Kirankavala143/Chocolate-Sales-Analysis-PowerBI/releases/tag/v1.0.0)
-
-### ☁️ Google Drive
-
-👉 [Download Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
-
-> The `.pbix` file contains the complete interactive Power BI report, including all 6 analytical pages, data model, DAX measures, Power Query transformations, and visualizations.
->
-> **Note:** The `.pbix` file requires Microsoft Power BI Desktop to open.
-
-
----
 
 # 👨‍💻 Author
 
