@@ -100,19 +100,29 @@ Provides transaction-level analysis through:
 
 ## 📱 7. Media Analytics
 
-Analyzes digital media and campaign performance through:
+The Media Analytics page analyzes digital campaign performance across social media platforms using the `Campaign Data` and `Platform Summary` tables.
 
-- Total Impressions and Reach
-- Total Engagements
-- Average Click-Through Rate (CTR)
-- Total Conversions
-- Engagement Distribution by Platform
-- Monthly Views Trend
-- Conversions by Platform
-- Campaign Performance Trend
-- Top-Performing Ad Creatives
+### Campaign Data
+- Campaign name, campaign type, date, platform, and creative name
+- Impressions and reach
+- Clicks, likes, comments, shares, and saves
+- Video views and advertising spend
 
----
+### Platform Summary
+- Platform-level impressions, reach, clicks, and engagements
+- Click-Through Rate (CTR) and engagement rate
+- Views and conversions
+- Cost per conversion and advertising spend
+
+### Dashboard Visualizations
+- **KPI Cards:** Total Impressions, Total Reach, Total Engagements, Average CTR, and Total Conversions
+- **Engagement Distribution:** Engagement comparison across platforms
+- **Views Trend by Month:** Monthly views performance
+- **Conversions by Platform:** Platform-level conversion comparison
+- **Campaign Performance Trend:** Campaign performance over time
+- **Top-Performing Ad Creatives:** Comparison of creative performance using impressions, clicks, CTR, conversions, and spend
+
+This page helps analyze audience engagement, compare social media platforms, track campaign performance, and evaluate advertising effectiveness.
 
 # 🖥️ Dashboard Preview
 
