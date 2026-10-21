@@ -24,9 +24,9 @@ The complete Power BI `.pbix` file is available through the following links:
 
 ### ☁️ Google Drive
 
-👉 [Download Power BI PBIX File](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
+👉 [Download Power BI PBIX File](https://drive.google.com/file/d/1xec5INw9Oe9dVOTE84L6QihG1Z9eunaz/view?usp=sharing)
 
-[Additional Google Drive Project Link](https://drive.google.com/file/d/1xec5INw9Oe9dVOTE84L6QihG1Z9eunaz/view?usp=sharing)
+[Additional Google Drive Project Link](https://drive.google.com/file/d/1tt4T89G_N2t4zAJNXSnjtq0gjOuePspO/view?usp=sharing)
 
 > The `.pbix` file requires Microsoft Power BI Desktop to open. Confirm that the shared links have the correct access permissions.
 
