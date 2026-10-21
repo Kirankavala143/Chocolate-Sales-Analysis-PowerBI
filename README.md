@@ -10,7 +10,7 @@ This project transforms business data into an interactive analytical report that
 
 ## 🌐 Interactive Power BI Dashboard
 
-👉 [Open Interactive Power BI Report](https://app.powerbi.com/reportEmbed?reportId=6159141b-68ca-4a8d-a481-3df4b5309fb9)
+👉 [Open Interactive Power BI Report]([https://app.powerbi.com/reportEmbed?reportId=6159141b-68ca-4a8d-a481-3df4b5309fb9](https://app.powerbi.com/links/h_XqwBcsTJ?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&bookmarkGuid=9c213744-b202-4815-80ff-92b50b52d3c7))
 
 > The interactive Power BI report may require Power BI access or sign-in.
 
